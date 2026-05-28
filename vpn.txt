@@ -1,8 +1,8 @@
 #subscription-userinfo: upload=1; download=1; total=1; expire=999999999999999
-#profile-title: Mygala и GhostLINK VPN ⚡
+#profile-title: GhostLINK VPN ⚡
 #profile-update-interval: 1
 #subscription-update-interval: 1
-#announce: 💖 Коллаборация Mygala и GhostLink | Не используйте много трафика! 🙏🏻
+#announce: ОБХОД БС ТОЛЬКО ПРИ БЕСПИЛОТНОЙ ОПАСНОСТИ‼️‼️ | Не используйте много трафика! 🌐💙
 #support-url: https://t.me/zurts
 #profile-web-page-url: https://t.me/VPN_GhostLink
 hysteria2://AwLis--VeCk99aU8oCTX9U257bqLfacB@multi.fresedvpn.site:59444?security=tls&fm=%7B%7D&allowinsecure=1&sni=multi.fresedvpn.site#%F0%9F%87%B8%F0%9F%87%AA+%D0%A8%D0%B2%D0%B5%D1%86%D0%B8%D1%8F+%7C+LTE%2FWi-FI+%E2%9A%A1
